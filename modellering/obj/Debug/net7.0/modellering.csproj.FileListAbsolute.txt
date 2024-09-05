@@ -1,0 +1,14 @@
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\bin\Debug\net7.0\modellering.exe
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\bin\Debug\net7.0\modellering.deps.json
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\bin\Debug\net7.0\modellering.runtimeconfig.json
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\bin\Debug\net7.0\modellering.dll
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\bin\Debug\net7.0\modellering.pdb
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\obj\Debug\net7.0\modellering.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\obj\Debug\net7.0\modellering.AssemblyInfoInputs.cache
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\obj\Debug\net7.0\modellering.AssemblyInfo.cs
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\obj\Debug\net7.0\modellering.csproj.CoreCompileInputs.cache
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\obj\Debug\net7.0\modellering.dll
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\obj\Debug\net7.0\refint\modellering.dll
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\obj\Debug\net7.0\modellering.pdb
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\obj\Debug\net7.0\modellering.genruntimeconfig.cache
+c:\Users\sadik.cay\Desktop\prog2\modellering\modellering\obj\Debug\net7.0\ref\modellering.dll
